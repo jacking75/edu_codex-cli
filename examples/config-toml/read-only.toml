@@ -1,0 +1,5 @@
+approval_policy = "never"
+default_permissions = ":read-only"
+
+[features]
+shell_snapshot = true

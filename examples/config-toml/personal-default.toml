@@ -1,0 +1,6 @@
+model = "gpt-5.4"
+approval_policy = "on-request"
+default_permissions = ":workspace"
+
+[features]
+shell_snapshot = true

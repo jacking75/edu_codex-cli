@@ -1,0 +1,6 @@
+approval_policy = "on-request"
+default_permissions = ":workspace"
+
+[windows]
+sandbox = "elevated"
+sandbox_private_desktop = true
