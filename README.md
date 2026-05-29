@@ -24,6 +24,7 @@ OpenAI Codex CLI를 설치하고 실제 개발 작업에 쓰기 위해 알아야
 - [PLANS.md를 사용하여 몇 시간씩 걸리는 문제 해결](docs/codex_exec_plans.md) 
 - [스킬과 서브에이전트](docs/basic_skill_subagent.md)
 - [Codex CLI Subagent: `docs_researcher`, `reviewer`, `worker` 완벽 가이드](docs/custom_agent-docs_researcher-reviewer-worker.md)
+- [MCP](docs/mcp.md)
      
 
 
